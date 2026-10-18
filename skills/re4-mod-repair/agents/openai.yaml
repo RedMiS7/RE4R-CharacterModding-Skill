@@ -1,0 +1,4 @@
+interface:
+  display_name: "RE4 Mod 诊断与修复"
+  short_description: "针对已有RE4角色Mod定位缺陷，保留有效部分并完成局部修复与验收"
+  default_prompt: "请使用 $re4-mod-repair 定位当前 Mod 的问题，建立局部修复候选并验证。"

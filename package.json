@@ -1,0 +1,16 @@
+{
+  "name": "re4-character-modding",
+  "version": "0.3.0",
+  "description": "Check RE4 model replacement tools and initialize local tool paths.",
+  "bin": {
+    "re4-check": "bin/cli.cjs"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=22"
+  }
+}
