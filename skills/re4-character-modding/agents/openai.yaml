@@ -1,4 +1,4 @@
 interface:
-  display_name: "RE4 角色 Mod 统一入口"
+  display_name: "RE4 Character Modding"
   short_description: "统一处理RE4角色Mod任务，按目标进入模型替换或已有Mod修复流程"
   default_prompt: "请使用 $re4-character-modding 根据当前任务进入模型替换或 Mod 修复 Skill。"

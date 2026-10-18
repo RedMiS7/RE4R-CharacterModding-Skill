@@ -1,4 +1,4 @@
 interface:
-  display_name: "RE4 角色模型替换"
+  display_name: "RE4 Model Replacement"
   short_description: "将源模型制作成RE4角色替换Mod，处理资源配对、绑定、材质及导出"
   default_prompt: "请使用 $re4-model-replacement 将当前源模型制作成目标角色与服装的替换 Mod。"
